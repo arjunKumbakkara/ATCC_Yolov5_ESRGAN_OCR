@@ -1,9 +1,9 @@
-# Yolov5 + Deep Sort with PyTorch
+# ATCC  :  YOLOv5+Deep Sort with PyTorch+ Easy OCR(*) + ESRGAN
 
-[![HitCount](http://hits.dwyl.com/{mikel-brostrom}/{Yolov5_DeepSort_Pytorch}.svg)](http://hits.dwyl.com/{mikel-brostrom}/{Yolov5_DeepSort_Pytorch})
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FarjunKumbakkara%2FATCC_Yolov5_ESRGAN_OCR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![](Town.gif)
+![](atcc_new.gif)
 
 ## Introduction
 
